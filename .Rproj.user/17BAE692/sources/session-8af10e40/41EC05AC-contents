@@ -51,6 +51,6 @@ The following model is being proposed for usage in the pilot version of the Clin
 
 ------------------------------------------------------------------------
 
-### CTDN Parser of Inclusion and Exclusion Criteria
+### [CTDN Parser of Inclusion and Exclusion Criteria](https://github.com/brianthesynergist/CTDN-Parser)
 
-This repository and effort is working in collaboration with an effort to further advance the use of ML to parse inclusion and exclusion criteria in clinical trials, building on the work originally started by Facebook and further extended by our working group partner Roche.
+This repository is being established and will be an effort to working in collaboration to further advance the use of ML to parse inclusion and exclusion criteria in clinical trials, building on the work originally started by Facebook and further extended by our working group partner Roche.

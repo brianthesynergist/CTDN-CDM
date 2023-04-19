@@ -17,7 +17,7 @@ The following model is being proposed for usage in the pilot version of the Clin
 ### Inclusion / Exclusion Criteria
 
 | Entity                                           | Data Category           | Data Type | Parameters                        | Example                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-------|-------|-------|-------|--------------------------------------------|
+|--------------------------------------------------|-------------------------|-----------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NCT Number                                       | Trial                   | String    | None                              | NCT01980823                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | CT Name - Official Research Title                | Trial                   | String    | None                              | Metformin & Atorvastatin Before Surgery to Study Their Effect on Cancer Cells                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | CT Description - Brief Description of Research   | Trial                   | String    | None                              | The purpose of this study is to determine the effects of combining metformin and atorvastatin treatment in patients with newly diagnosed breast cancer during the interval between breast biopsy and surgery. This study is designed to assess whether tumor proliferation, as measured by the natural log expression of Ki-67 staining of breast tumor cells, is reduced following approximately 2 weeks of treatment with the combination of metformin plus atorvastatin in patients with newly diagnosed breast cancer. |
@@ -40,7 +40,7 @@ The following model is being proposed for usage in the pilot version of the Clin
 ### Plain Language Summary
 
 | Entity                    | Data Category  | Data Type     | Parameters | Example                                                                                                    |
-|----------|----------|----------|----------|---------------------------------|
+|---------------------------|----------------|---------------|------------|------------------------------------------------------------------------------------------------------------|
 | Purpose of the Study      | Plain Language | String        | None       | To study the effects of metformin and atorvastin on breast cancer cells.                                   |
 | Who is it for             | Plain Language | String        | None       | Women with stage DCIS, I, stage II, or stage III breast cancer.                                            |
 | What is involved          | Plain Language | String        | None       | You will receive the following: Metformin and atorvastatin, by mouth, daily, for 2 weeks prior to surgery" |
@@ -51,6 +51,6 @@ The following model is being proposed for usage in the pilot version of the Clin
 
 ------------------------------------------------------------------------
 
-### [CTDN Parser of Inclusion and Exclusion Criteria](https://github.com/brianthesynergist/CTDN-Parser)
+### CTDN Parser of Inclusion and Exclusion Criteria
 
 This repository is being established and will be an effort to working in collaboration to further advance the use of ML to parse inclusion and exclusion criteria in clinical trials, building on the work originally started by Facebook and further extended by our working group partner Roche.
